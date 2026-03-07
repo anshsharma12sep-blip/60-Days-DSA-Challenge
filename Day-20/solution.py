@@ -21,7 +21,7 @@ class Solution:
         return stack[0]
 
 
-# ---------------- MAIN FUNCTION ----------------
+
 def main():
     sol = Solution()
     
